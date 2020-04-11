@@ -7,8 +7,8 @@ Lecture slides, wiki, notes and examples from units 4 and 6 of the Creative Codi
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/)
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), Camberwell, 5th Floor Block B
 - [All term dates](https://www.arts.ac.uk/students/term-dates)
-- [Office Hours are now now optional via a rota](ROTA.MD)
-- [Team check ins are every Monday, 1130-1330](TEAMS.MD)
+- [Office Hours are now now optional via a rota](ROTA.md)
+- [Team check ins are every Monday, 1130-1330](TEAMS.md)
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com)
 - [Lecture Slides](https://jgl.github.io/CCIDiploma-Summer2020/)
 - [Wiki for all homework, reading lists and other resources](https://github.com/JGL/CCIDiploma-Summer2020/wiki)
@@ -18,7 +18,7 @@ Lecture slides, wiki, notes and examples from units 4 and 6 of the Creative Codi
 
 You can find the UAL Disciplinary Code For Students here: [Disciplinary Code For Students](https://www.arts.ac.uk/study-at-ual/academic-regulations/student-regulations/disciplinary-code-for-students)
 
-You can find our code of conduct, cloned from p5.js, here: [code_of_conduct.md](CODE_OF_CONDUCT.md).
+You can find our code of conduct, cloned from p5.js, here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 Golan Levin also offers a useful thought from his children's school:
 
@@ -58,7 +58,7 @@ Mondays:
 
 - 0900-0930: Slack chat, setting up Blackboard
 - 0930-1130: Unit 4 "Coding for Collaborative App Development" Blackboard lecture
-- 1130-1330: Teams A,B,C and D check ins on Slack, 20 minutes each. [Team details](TEAMS.MD)
+- 1130-1330: Teams A,B,C and D check ins on Slack, 20 minutes each. [Team details](TEAMS.md)
 - 1330-1430: Lunch
 - 1430-1730: All staff meeting, email, planning
 
@@ -68,7 +68,7 @@ Tuesdays:
 - 0930-1130: Unit 6 "Creative Practice: Computational Environments" Blackboard lecture
 - 1130-1330: Write and set Moodle quiz for EACH unit - 5 multiple choice questions, 4 options for each, 20 minute duration, to complete on Thursday and Friday.
 - 1330-1430: Lunch
-- 1430-1800: 7 20 minute individual check ins on Slack - [rota](ROTA.MD), non optional!
+- 1430-1800: 7 20 minute individual check ins on Slack - [rota](ROTA.md), non optional!
 
 On Wednesdays and Thursdays I am working for [Universal Everything](https://universaleverything.com/).
 
@@ -76,9 +76,9 @@ On Fridays I am working for CCI on research and course development.
 
 ## Team check ins and Individual Check ins
 
-Team check ins are every Monday, 1130-1330. [Team details](TEAMS.MD).
+Team check ins are every Monday, 1130-1330. [Team details](TEAMS.md).
 
-Individual check ins are every Tuesday, 1430-1800. [Individual check ins details](ROTA.MD).
+Individual check ins are every Tuesday, 1430-1800. [Individual check ins details](ROTA.md).
 
 ## Assessment
 
