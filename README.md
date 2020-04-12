@@ -5,9 +5,9 @@ Lecture slides, wiki, notes and examples from units 4 and 6 of the Creative Codi
 ## Info
 
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
-- Location: Online only (UAL login required)! Via the [Creative Computing Institute Diploma Moodle](https://moodle.arts.ac.uk/course/view.php?id=38027).
+- Location: Online only (UAL login required) via the [Creative Computing Institute Diploma Moodle](https://moodle.arts.ac.uk/course/view.php?id=38027).
 - [All term dates](https://www.arts.ac.uk/students/term-dates).
-- [Office Hours are now NONE optional, via a rota](ROTA.md).
+- [Office Hours are now NON optional, via a rota](ROTA.md).
 - [Team check ins are every Monday, 1130-1330](TEAMS.md).
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
 - [Lecture Slides](https://jgl.github.io/CCIDiploma-Summer2020/).
