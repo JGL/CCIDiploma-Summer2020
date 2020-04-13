@@ -16,7 +16,7 @@ Lecture slides, wiki, notes and examples from units 4 and 6 of the Creative Codi
 
 ## Huge thanks to:
 
-Alan Warburton, Alex Fefegha, Ben Kelly, Ben Stopher, Caitlin Morris, Cathy Hoste, Charlotte Webb, Daniel Shiffman, Everest Pipkin, Georgina Capdevila Cano, Golan Levin, Graham Bennett, Greg Smith, Harri Lewis, Jaap de Maat, Jessica Bland, Jonas Jongejan, Jonathan Harris, Joshua Goldberg, Julia Makivic, Jussi Ängeslevä, Kenneth Lim, Kyle McDonald, Lia, Liam Walsh, Mark Lundin, Matt Deslauriers, Matt Deslauriers, Matt Jarvis, Matthew Plummer Fernandez, Mick Grierson, Mike Golembewski, Paolo Pedercini, Parag Kumar Mital, Patricia Lewis, Pete Mackenzie, Phoenix Perry, Rebecca Ross, Rick Walker, Rollo Lewis, Rosa Menkman, Rune Madsen, Sheldon Brown, Tega Brain, Toby Milner-Gulland, Tom Lynch, Xiaohan Zhang and Zach Lieberman.
+Alan Warburton, Alex Fefegha, Ben Kelly, Ben Stopher, Caitlin Morris, Cathy Hoste, Charlotte Webb, Daniel Shiffman, Everest Pipkin, Georgina Capdevila Cano, Golan Levin, Graham Bennett, Greg Smith, Harri Lewis, Jaap de Maat, Jessica Bland, Jonas Jongejan, Jonathan Harris, Joshua Goldberg, Julia Makivic, Jussi Ängeslevä, Kenneth Lim, Kyle McDonald, Lia, Liam Walsh, Mark Lundin, Matt Deslauriers, Matt Jarvis, Matthew Plummer Fernandez, Mick Grierson, Mike Golembewski, Paolo Pedercini, Parag Kumar Mital, Patricia Lewis, Pete Mackenzie, Phoenix Perry, Rebecca Ross, Rick Walker, Rollo Lewis, Rosa Menkman, Rune Madsen, Sheldon Brown, Tega Brain, Toby Milner-Gulland, Tom Lynch, Xiaohan Zhang and Zach Lieberman.
 
 ## Code of Conduct
 
