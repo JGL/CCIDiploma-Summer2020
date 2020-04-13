@@ -24,7 +24,7 @@ You can find the UAL Disciplinary Code For Students here: [Disciplinary Code For
 
 You can find our code of conduct, cloned from p5.js, here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-[http://flong.com/](Golan Levin) also offers a useful thought from his children's school:
+[Golan Levin](http://flong.com) also offers a useful thought from his children's school:
 
 > When communicating, ask yourself:
 >
