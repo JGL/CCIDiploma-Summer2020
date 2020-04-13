@@ -14,13 +14,17 @@ Lecture slides, wiki, notes and examples from units 4 and 6 of the Creative Codi
 - [Wiki for all homework, reading lists and other resources](https://github.com/JGL/CCIDiploma-Summer2020/wiki).
 - You are expected to undertake independent study of about 25 hours per week.
 
+## Huge thanks to:
+
+Alan Warburton, Alex Fefegha, Ben Kelly, Ben Stopher, Caitlin Morris, Cathy Hoste, Charlotte Webb, Daniel Shiffman, Everest Pipkin, Georgina Capdevila Cano, Golan Levin, Graham Bennett, Greg Smith, Harri Lewis, Jaap de Maat, Jessica Bland, Jonas Jongejan, Jonathan Harris, Joshua Goldberg, Julia Makivic, Jussi Ängeslevä, Kenneth Lim, Kyle McDonald, Lia, Liam Walsh, Mark Lundin, Matt Deslauriers, Matt Deslauriers, Matt Jarvis, Matthew Plummer Fernandez, Mick Grierson, Mike Golembewski, Paolo Pedercini, Parag Kumar Mital, Patricia Lewis, Pete Mackenzie, Phoenix Perry, Rebecca Ross, Rick Walker, Rollo Lewis, Rosa Menkman, Rune Madsen, Sheldon Brown, Tega Brain, Toby Milner-Gulland, Tom Lynch, Xiaohan Zhang and Zach Lieberman.
+
 ## Code of Conduct
 
 You can find the UAL Disciplinary Code For Students here: [Disciplinary Code For Students](https://www.arts.ac.uk/study-at-ual/academic-regulations/student-regulations/disciplinary-code-for-students)
 
 You can find our code of conduct, cloned from p5.js, here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-Golan Levin also offers a useful thought from his children's school:
+[http://flong.com/](Golan Levin) also offers a useful thought from his children's school:
 
 > When communicating, ask yourself:
 >
@@ -38,7 +42,7 @@ At the end of this block (the end of term 3) you should have the following outco
 
 In this unit you will develop a web app concept using Javascript, primarily in p5.js. This will give you both an understanding of the development process using standard web-based development tools and introduce specific p5.js libraries such as p5.SceneManager and p5.gui. Importantly this unit will include an introduction to collaborative tools for software development and an introduction to the use of key cloud-based services for deployment and collaboration. You will also explore the ethics of software development and consider issues such as privacy and data handling.
 
-The aim of the unit is to expose you to the team-based nature of software development and give you experience of development processes and platforms that are in high demand in the digital creative industries. With this experience you page2image19691744will be able to make an informed decision about what is required to work professionally in this area and what part of the development pipeline you potentially are best suited to.
+The aim of the unit is to expose you to the team-based nature of software development and give you experience of development processes and platforms that are in high demand in the digital creative industries. With this experience you will be able to make an informed decision about what is required to work professionally in this area and what part of the development pipeline you potentially are best suited to.
 
 ### Unit 6 / Block 2: "Creative Practice: Computational Environments for the Web"
 
