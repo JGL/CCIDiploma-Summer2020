@@ -20,11 +20,11 @@
    7. 1730: Catherine Rose Lavender
 3. Tuesday 29th April 2020
    1. 1430: Dejana Dragnic
-   2. 1500: Maximilian Zimmerer
+   2. 1500: Jann Choy
    3. 1530: Ella Fitzgerald
    4. 1600: Llorenc Garcia Bas
    5. 1630: Nihal Chadha
-   6. 1700: Choy Yun Jann
+   6. 1700: Maximilian Zimmerer
    7. 1730: Morgan Williams
 4. Tuesday 5th May 2020
    1. 1430: Riya Cyril Anandam
