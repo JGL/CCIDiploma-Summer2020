@@ -7,7 +7,7 @@ Lecture slides, wiki, notes and examples from units 4 and 6 of the Creative Codi
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
 - Location: Online only (UAL login required) via the [Creative Computing Institute Diploma Moodle](https://moodle.arts.ac.uk/course/view.php?id=38027).
 - [All term dates](https://www.arts.ac.uk/students/term-dates).
-- [Office Hours are now NON optional, via a rota](ROTA.md).
+- [Office Hours are now NON optional, via a rota, every Tuesday, 1430-1800](ROTA.md).
 - [Team check ins are every Monday, 1130-1330](TEAMS.md).
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
 - [Lecture Slides](https://jgl.github.io/CCIDiploma-Summer2020/).
@@ -98,7 +98,7 @@ Unit 4 and Unit 6 are assessed in different ways:
 
 ~Due to C19, the show will be happening online this year. How shall we exhibit? Which domain name? I'm happy to host on my own server. I was thinking a structure similar to this list of examples by [Matt DesLauriers](https://www.mattdesl.com/): <http://dfpi-demos.glitch.me/>.~
 
-After discussion we are going to an online show in the style of the[LikeLike arcade](https://likelike2.glitch.me/). Joel has [set up a Glitch clone that we are going to develop on Glitch](https://glitch.com/~cci-diploma-show). The plan is to build our own pixelated gallery, with each picture on the wall/prop clickable to launch each students end of year project in another browser window, similar to the way that LikeLike has individual arcade machines that launch browser based games when clicked.
+After discussion we are going to create an online show in the style of the [LikeLike arcade](https://likelike2.glitch.me/). Joel has [set up a Glitch clone that we are going to develop on Glitch](https://glitch.com/~cci-diploma-show). The plan is to build our own pixelated gallery, with each picture on the wall/prop clickable to launch each students end of year project in another browser window, similar to the way that LikeLike has individual arcade machines that launch browser based games when clicked.
 
 ## Summer term schedule
 
