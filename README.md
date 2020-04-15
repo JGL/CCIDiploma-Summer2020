@@ -70,7 +70,7 @@ Tuesdays:
 
 - 0900-0930: Slack chat, setting up Blackboard
 - 0930-1130: Unit 6 "Creative Practice: Computational Environments for the Web" Blackboard lecture
-- 1130-1330: Write and set Moodle quiz for EACH unit - 5 multiple choice questions, 4 options for each, 20 minute duration, to complete on Thursday and Friday.
+- 1130-1330: Joel write and set Moodle quiz for EACH unit - 5 multiple choice questions, 4 options for each, to complete any time between Thursday 0900 - Saturday 0900 (London time)
 - 1330-1430: Lunch
 - 1430-1800: 7 20 minute individual check ins on Slack - [rota](ROTA.md), non optional!
 
@@ -96,16 +96,14 @@ Unit 4 and Unit 6 are assessed in different ways:
 
 ## End of year Online Show 🥳
 
-Due to C19, the show will be happening online this year. How shall we exhibit? Which domain name? I'm happy to host on my own server. I was thinking a structure similar to this list of examples by [Matt DesLauriers](https://www.mattdesl.com/):
+~Due to C19, the show will be happening online this year. How shall we exhibit? Which domain name? I'm happy to host on my own server. I was thinking a structure similar to this list of examples by [Matt DesLauriers](https://www.mattdesl.com/): <http://dfpi-demos.glitch.me/>.~
 
-<http://dfpi-demos.glitch.me/>
-
-What do you think?
+After discussion we are going to an online show in the style of the[LikeLike arcade](https://likelike2.glitch.me/). Joel has [set up a Glitch clone that we are going to develop on Glitch](https://glitch.com/~cci-diploma-show). The plan is to build our own pixelated gallery, with each picture on the wall/prop clickable to launch each students end of year project in another browser window, similar to the way that LikeLike has individual arcade machines that launch browser based games when clicked.
 
 ## Summer term schedule
 
-1. Tuesday 14th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 0: Introduction.
-2. Monday 20th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 1: Node.js and JSON.
+1. ~Tuesday 14th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 0: Introduction.~
+2. ~Monday 20th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 1: Node.js and JSON.~
 3. Tuesday 21st April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 1: Images and video.
 4. Monday 27th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 2: Websockets and Socket.IO.
 5. Tuesday 29th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 2: Tracking.
