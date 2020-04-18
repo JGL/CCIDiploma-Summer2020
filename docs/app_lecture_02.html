@@ -39,7 +39,7 @@
 					<li>What are Websockets?</li>
 					<li>What is Socket.io? Building a shared canvas, building a chat room.</li>
 					<li>Matt DesLauriers' socket.io demos.</li>
-					<li>Golan Levin's socket.io demos.</li>
+					<li>Golan Levin's and Char Stile's socket.io demos.</li>
 					<li>What questions to do you have for me?</li>
 				</ol>
 			</section>
@@ -47,37 +47,42 @@
 				<h3>0. What questions to do you have for me?</h3>
 				<ul>
 					<li>What questions to do you have for me?</li>
-					<li>What are your concerns? What are you worried about? What do you want to ask but you are
-						embarrassed?</li>
+					<li>What are your concerns? What are you worried about? What do you want to ask but you are embarrassed?</li>
 					<li>All questions allowed!</li>
 					<li>5 minutes to message me on Slack in private.</li>
-					<li>This idea came from <a href="http://thesystemis.com/">Zach Lieberman</a>. He does this exercise
-						at the start of every session of <a href="https://sfpc.io/">School of Poetic Computation in New
-							York</a>.</li>
+					<li>This idea came from <a href="http://thesystemis.com/">Zach Lieberman</a>. He does this exercise at the start of every session of <a href="https://sfpc.io/">School of Poetic Computation in New York</a>.</li>
 				</ul />
 			</section>
 			<section>
 				<h3>1. What are Websockets?</h3>
 				<ul>
-					<li></li>
+					<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API">Quoting from MDN</a>: "The WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses <i>without having to poll the server for a reply</i>."</li>
+					<li>This means you can ask for some data from the server (or send it), and specify a function in your code to run when the reply comes in.</li>
+					<li>Before these kinds of technologies, code would have to constantly ask again and again (or "<i>poll</i>") for information. Causing lots of unnecessary network traffic and making the code much more complicated.</li>
 				</ul />
 			</section>
 			<section>
 				<h3>2. What is Socket.io? Building a shared canvas, building a chat room.</h3>
 				<ul>
-					<li></li>
+					<li><a href="https://socket.io/">Socket.io</a> is a JavaScript library made by <a href=" https://automattic.com/">Automattic (also makers of WordPress)</a> that relies on WebSocket, but adds lots of useful features, like being able to broadcast to multiple sockets at once.</li>
+					<li>Let's take a look at the two examples that are provided on the <a href="https://socket.io/">Socket.io</a> website: <a href="https://socket.io/demos/whiteboard/">a shared drawing canvas</a> and <a href="https://socket.io/demos/chat/">a chat room</a>.</li>
 				</ul />
 			</section>
 			<section>
-				<h3>3. Matt DesLauriers' socket.io demos.</h3>
+				<h3>3. <a href="https://www.mattdesl.com/">Matt DesLauriers'</a> socket.io demos.</h3>
 				<ul>
-					<li>Someone should make these work for mobile devices - message me on Slack if you are interested in doing that. http://dfpi-multiplayer.glitch.me/</li>
+					<li>Let's take a look at <a href="https://glitch.com/edit/#!/dfpi-simple-socket?path=sketch.js:1:0">Matt DesLauriers' most basic socket demo</a>.</li>
+					<li>Let's take a look at <a href="https://glitch.com/edit/#!/dfpi-multiplayer?path=sketch.js:1:0">Matt DesLauriers' more complicated shared drawing canvas demo</a>.</li>
+					<li>Someone should make that last one work for mobile devices - message me on Slack if you are interested in doing that. How would you go about that? Let's discuss it.</li>
 				</ul />
 			</section>
 			<section>
-				<h3>4. Golan Levin's socket.io demos.</h3>
+				<h3>4. <a href="http://flong.com/">Golan Levin's</a> and <a href="http://charstiles.com/">Char Stiles</a> socket.io demos.</h3>
 				<ul>
-					<li></li>
+					<li><a href="https://glitch.com/~cmuems-bare-socketio">Bare Socket.io demo</a>: "hit any key besides space to add a random number from 0 to 24 and space to display the average".</li>
+					<li><a href="https://glitch.com/~cmuems-chatroom">Chatroom</a>: "chatroom".</li>
+					<li><a href="https://glitch.com/~cmuems-drawing-game">Drawing game</a>: "Multi-player drawing game using Socket.io & p5.js".</li>
+					<li><a href="https://glitch.com/~cmuems-agario">Agar.io clone</a>: "A simple implementation of the game agar.io".</li>
 				</ul />
 			</section>
 			<section>
