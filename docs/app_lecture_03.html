@@ -36,11 +36,10 @@
 				<h3>What I'm going to talk about today:</h3>
 				<ol start=0>
 					<li>What questions to do you have for me?</li>
-					<li>What is Fetch? Promises, Async and Await</li>
 					<li>Parsing CSV and charting with chart.js</li>
 					<li>Parsing JSON and making maps with Leaflet.js</li>
-					<li>Databases, why are they useful? lowdb and NedB</li>
-					<li>Saving images to a database with p5.js</li>
+					<li>Databases, why are they useful? Image saving NeDB example</li>
+					<li>Databases, persistent high score lowDB example</li>
 					<li>What questions to do you have for me?</li>
 				</ol>
 			</section>
@@ -58,37 +57,47 @@
 				</ul />
 			</section>
 			<section>
-				<h3>1. What is Fetch? Promises, Async and Await</h3>
+				<h3>1. Parsing CSV and charting with chart.js</h3>
 				<ul>
-					<li></li>
+					<li>What is <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV? CSV stands for "Comma-separated values". It's a way of storing data in a text file, with lots of commas to break up the data</a>. I prefer JSON, but lots of older datasets will be supplied in .csv format, so it's good to learn it.</li>
+					<li>Did you watch the <a href="https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&t=0s">the Coding Train playlist: "Working With Data & APIs in JavaScript"</a>? I wanted to focus on a certain part, <a href="https://www.youtube.com/watch?v=5-ptp9tRApM&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=5">"1.3: Graphing with Chart.js - Working With Data & APIs in JavaScript"</a>.</li>
+					<li>Let's look at <a href="https://www.chartjs.org/">the Chart.js</a> website.</li>
+					<li>Let's <a href="https://github.com/CodingTrain/Intro-to-Data-APIs-JS/blob/afafe6f5b9e495d1b5cecdf88f8a356ccdd8e2e8/module1/02_fetch_csv/index.html">take a look at the source code</a>, and make this example on Glitch.com together.</li>
+					<li>What else could you use this example for?</li>
 				</ul />
 			</section>
 			<section>
-				<h3>2. Parsing CSV and charting with chart.js</h3>
+				<h3>2. Parsing JSON and making maps with Leaflet.js</h3>
 				<ul>
-					<li></li>
+					<li>What is <a href="https://en.wikipedia.org/wiki/Comma-separated_values">JSON? JSON stands for "JavaScript Object Notation". It's a way of storing data in a text file, with as arrays or attribute-value pairs.</a>. An attribute-value pair is just a label and a value for that label.I love JSON!</li>
+					<li>Continuing the <a href="https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&t=0s">the Coding Train playlist: "Working With Data & APIs in JavaScript"</a>, let's look at a later section, <a href="https://www.youtube.com/watch?v=5-ptp9tRApM&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=5">"1.5 Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript"</a>.</li>
+					<li>Let's look at <a href="https://leafletjs.com/">the Leaflet.js</a> website.</li>
+					<li>Let's <a href="https://github.com/CodingTrain/Intro-to-Data-APIs-JS/blob/source/module1/03_fetch_json/index.html">take a look at the source code</a>, and make this example on Glitch.com together.</li>
+					<li>What else could you use this example for?</li>
 				</ul />
 			</section>
 			<section>
-				<h3>3. Parsing JSON and making maps with Leaflet.js</h3>
+				<h3>3. Databases, why are they useful? Image saving NeDB example</h3>
 				<ul>
-					<li></li>
+					<li>Using a <a href="https://en.wikipedia.org/wiki/Database">database</a> enables persistence - perfect for a high score table or something like that.</li>
+					<li>Databases can also help with concurrency problems - what happens if two users edit data differently and then save their results? Which is the correct version?</li>
+					<li>Continuing the <a href="https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&t=0s">the Coding Train playlist: "Working With Data & APIs in JavaScript"</a>, let's look at some later sections, <a href="https://www.youtube.com/watch?v=xVYa20DCUv0&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=12">"2.4 Saving to a Database - Working with Data and APIs in JavaScript"</a>, <a href="https://www.youtube.com/watch?v=q-lUgFxwjEM&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=13">"2.5 Database Query - Working with Data and APIs in JavaScript"</a> and <a href="https://www.youtube.com/watch?v=9Rhsb3GU2Iw&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=14">"2.6 Saving Images and Base64 Encoding - Working with Data and APIs in JavaScript"</a></li>
+					<li>Let's <a href="https://github.com/CodingTrain/Intro-to-Data-APIs-JS/tree/source/module2/data_selfie_app">take a look at the source code</a>, and look at <a href="https://github.com/joeyklee/data-selfie-app">the example code for a more complete version of the Data Selfie project</a>, from <a href="https://github.com/joeyklee">Joey Lee</a>.</li>
+					<li>For reference, here is <a href="https://github.com/louischatriot/nedb/">the NeDB Github repository</a>.</li>
+					<li>What else could you use this example for?</li>
 				</ul />
 			</section>
 			<section>
-				<h3>4. Databases, why are they useful? lowdb and NedB</h3>
+				<h3>4. Databases, persistent high score lowDB example</h3>
 				<ul>
-					<li></li>
+					<li>Here is an example of <a href="https://github.com/typicode/lowdb">another database engine, lowdb</a>. It's called lowdb because it uses a popular JavaScript library: <a href="https://lodash.com/">Lodash</a>. Lodash has lots of useful code for dealing with strings, arrays and other things.</li>
+					<li>Let's take a look at the source code for <a href="https://glitch.com/edit/#!/iacd-highscore?path=server.js:1:0">a game that uses lowdb to have a persistent high score</a>.</li>
+					<li>The example above was created by <a href="http://www.charstiles.com/">Char Stiles</a> for <a href=" http://cmuems.com/2019/60212/deliverables/7-telematic-due-10-16/">Golan Levin's course on Interactivity & Computation</a>.</li>
+					<li>What else could you use this example for?</li>
 				</ul />
 			</section>
 			<section>
-				<h3>5. Saving images to a database with p5.js</h3>
-				<ul>
-					<li></li>
-				</ul />
-			</section>
-			<section>
-				<h3>6. What questions to do you have for me?</h3>
+				<h3>5. What questions to do you have for me?</h3>
 				<ul>
 					<li>What questions to do you have for me?</li>
 					<li>What are your concerns? What are you worried about? What do you want to ask but you are embarrassed?</li>

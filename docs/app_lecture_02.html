@@ -29,13 +29,16 @@
 			<section>
 				<h2>Creative Computing</h2>
 				<p>Joel Gethin Lewis</p>
-				<p>Unit 4 / Block 2: "Coding for Collaborative Web Development": Lecture 2: Websockets and Socket.IO</p>
+				<p>Unit 4 / Block 2: "Coding for Collaborative Web Development": Lecture 2: Functions, Websockets and Socket.IO</p>
 			</section>
 			<section>Have you taken the register first? Are you recording?</section>
 			<section>
 				<h3>What I'm going to talk about today:</h3>
 				<ol start=0>
 					<li>What questions to do you have for me?</li>
+					<li>New functionality around Functions - arrows, promises and async.</li>
+					<li>More functionality - Fetch</li>
+					<li>Matt DesLauriers' node.js/p5.js demos.</li>
 					<li>What are Websockets?</li>
 					<li>What is Socket.io? Building a shared canvas, building a chat room.</li>
 					<li>Matt DesLauriers' socket.io demos.</li>
@@ -54,39 +57,66 @@
 				</ul />
 			</section>
 			<section>
-				<h3>1. What are Websockets?</h3>
+				<h3>1. New functionality around Functions - arrows, promises and async.</h3>
+				<ul>
+					<li>Let's take a look at <a href="https://www.mattdesl.com/">Matt DesLauriers'</a> notes on <a href="https://github.com/mattdesl/bartlett-dfpi/blob/master/guides/functions.md">functions in JavaScript</a>.</li>
+					<li>Matt also links to <a href="https://www.taniarascia.com/how-to-define-functions-in-javascript/">Tania Rascia's "Understanding Functions in JavaScript"</a>. Tania has <a href="https://www.taniarascia.com/blog/">LOADS of useful guides in her "Missing Instruction Manuals of the Web" series of articles</a>.</li>
+					<li><a href="http://formidablelabs.com/">Formidable Labs</a> also made <a href="http://stack.formidable.com/es6-interactive-guide/#/">an interactive guide to ES 6 (we don't need all of it)</a>. What is ES? It's short for <a href="https://en.wikipedia.org/wiki/ECMAScript">ECMAScript, which was created to standardise JavaScript</a>.
+					<li>Let's look at <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function">the MDN documentation for an asynchronous function</a>.</li>
+					<li>Let's look at <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises">the MDN guide to using Promises</a>.</li>
+				</ul />
+			</section>
+			<section>
+				<h3>2. More functionality - Fetch.</h3>
+				<ul>
+					<li>Let's look at <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API">the MDN documentation for the Fetch API</a>. Fetch lets you grab data from your local computer or other computers on the Internet in a standardised way. Fetch demonstrates the use of Promises and is an asynchronous function - it executes outside of the normal draw loop in p5.js.</li>
+					<li>I'd really recommend taking a look at <a href="https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&t=0s">this Coding Train playlist: "Working With Data & APIs in JavaScript"</a>.</li>
+				</ul />
+			</section>
+			<section>
+				<h3>3. Matt DesLauriers' node.js/p5.js demos.</h3>
+				<ul>
+					<li>Let's take a look at <a href="https://www.mattdesl.com/">Matt DesLauriers'</a> node.js/p5.js examples: <a href="https://glitch.com/edit/#!/dfpi-palettes">loading Palettes from a .json file</a>, <a href="https://glitch.com/edit/#!/dfpi-color-server">loading colors (sic) from a node.js server</a> and <a href="https://glitch.com/edit/#!/dfpi-api">loading Palettes from web based API</a>.</li>
+					<li>What else could you use these examples for?</li>
+				</ul />
+			</section>
+			<section>
+				<h3>4. What are Websockets?</h3>
 				<ul>
 					<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API">Quoting from MDN</a>: "The WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses <i>without having to poll the server for a reply</i>."</li>
-					<li>This means you can ask for some data from the server (or send it), and specify a function in your code to run when the reply comes in.</li>
+					<li>This means you can ask for some data from the server (or send it), and specify a function in your code to run when the reply comes in, while the rest of your code is running.</li>
 					<li>Before these kinds of technologies, code would have to constantly ask again and again (or "<i>poll</i>") for information. Causing lots of unnecessary network traffic and making the code much more complicated.</li>
 				</ul />
 			</section>
 			<section>
-				<h3>2. What is Socket.io? Building a shared canvas, building a chat room.</h3>
+				<h3>5. What is Socket.io? Building a shared canvas, building a chat room.</h3>
 				<ul>
 					<li><a href="https://socket.io/">Socket.io</a> is a JavaScript library made by <a href=" https://automattic.com/">Automattic (also makers of WordPress)</a> that relies on WebSocket, but adds lots of useful features, like being able to broadcast to multiple sockets at once.</li>
 					<li>Let's take a look at the two examples that are provided on the <a href="https://socket.io/">Socket.io</a> website: <a href="https://socket.io/demos/whiteboard/">a shared drawing canvas</a> and <a href="https://socket.io/demos/chat/">a chat room</a>.</li>
+					<li>What else could you use these examples for?</li>
 				</ul />
 			</section>
 			<section>
-				<h3>3. <a href="https://www.mattdesl.com/">Matt DesLauriers'</a> socket.io demos.</h3>
+				<h3>6. <a href="https://www.mattdesl.com/">Matt DesLauriers'</a> socket.io demos.</h3>
 				<ul>
 					<li>Let's take a look at <a href="https://glitch.com/edit/#!/dfpi-simple-socket?path=sketch.js:1:0">Matt DesLauriers' most basic socket demo</a>.</li>
 					<li>Let's take a look at <a href="https://glitch.com/edit/#!/dfpi-multiplayer?path=sketch.js:1:0">Matt DesLauriers' more complicated shared drawing canvas demo</a>.</li>
 					<li>Someone should make that last one work for mobile devices - message me on Slack if you are interested in doing that. How would you go about that? Let's discuss it.</li>
+					<li>What else could you use these examples for?</li>
 				</ul />
 			</section>
 			<section>
-				<h3>4. <a href="http://flong.com/">Golan Levin's</a> and <a href="http://charstiles.com/">Char Stiles</a> socket.io demos.</h3>
+				<h3>7. <a href="http://flong.com/">Golan Levin's</a> and <a href="http://charstiles.com/">Char Stiles</a> socket.io demos.</h3>
 				<ul>
 					<li><a href="https://glitch.com/~cmuems-bare-socketio">Bare Socket.io demo</a>: "hit any key besides space to add a random number from 0 to 24 and space to display the average".</li>
 					<li><a href="https://glitch.com/~cmuems-chatroom">Chatroom</a>: "chatroom".</li>
 					<li><a href="https://glitch.com/~cmuems-drawing-game">Drawing game</a>: "Multi-player drawing game using Socket.io & p5.js".</li>
 					<li><a href="https://glitch.com/~cmuems-agario">Agar.io clone</a>: "A simple implementation of the game agar.io".</li>
+					<li>What else could you use these examples for?</li>
 				</ul />
 			</section>
 			<section>
-				<h3>5. What questions to do you have for me?</h3>
+				<h3>8. What questions to do you have for me?</h3>
 				<ul>
 					<li>What questions to do you have for me?</li>
 					<li>What are your concerns? What are you worried about? What do you want to ask but you are

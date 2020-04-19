@@ -103,7 +103,7 @@ After discussion we are going to create an online show in the style of the [Like
 ## Summer term schedule
 
 1. ~Tuesday 14th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 0: Introduction.~
-2. ~Monday 20th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 1: Node.js and JSON.~
+2. Monday 20th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 1: Node.js and JSON.
 3. Tuesday 21st April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 1: Images and video.
 4. Monday 27th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 2: Websockets and Socket.IO.
 5. Tuesday 29th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 2: Tracking.
