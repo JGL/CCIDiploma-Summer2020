@@ -36,7 +36,7 @@
 
 1. Riya Cyril Anandam
 2. Martin Del Busto
-3. Laiqua Mohid
+3. Laiqa Mohid (Lai)
 4. Stacy Griffiths
 5. Alex Greer
 6. Eunah Lee
