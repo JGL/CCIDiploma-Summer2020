@@ -106,7 +106,7 @@ After discussion we are going to create an online show in the style of the [Like
 2. ~Monday 20th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 1: Node.js and JSON~.
 3. ~Tuesday 21st April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 1: Images and video~.
 4. Monday 27th April 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 2: Websockets and Socket.IO.
-5. Tuesday 29th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 2: Tracking.
+5. Tuesday 28th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 2: Tracking.
 6. Monday 4th May 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 3: Geolocation and databases.
 7. Tuesday 5th May 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 3: Classifying.
 8. Monday 11th May 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 4: Networked face and body tracking.
