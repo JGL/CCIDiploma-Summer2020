@@ -18,7 +18,7 @@
    5. 1630: Kamil Sznajder
    6. 1700: Lexy Garces Beavis
    7. 1730: Catherine Rose Lavender
-3. Tuesday 29th April 2020
+3. Tuesday 28th April 2020
    1. 1430: Dejana Dragnic
    2. 1500: Jann Choy
    3. 1530: Ella Fitzgerald
