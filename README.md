@@ -109,8 +109,8 @@ After discussion we are going to create an online show in the style of the [Like
 5. ~Tuesday 28th April 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 2: Tracking.~
 6. ~Monday 4th May 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 3: Geolocation and databases.~
 7. ~Tuesday 5th May 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 3: Classifying.~
-8. Monday 11th May 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 4: Networked face and body tracking.
-9. Tuesday 12th May 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 4: Faces.
+8. ~Monday 11th May 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 4: Networked face and body tracking.~
+9. ~Tuesday 12th May 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 4: Faces.~
 10. Monday 18th May 2020 - Unit 4 - "Coding for Collaborative Web Development" - Lecture 5: Networked environments.
 11. Tuesday 19th May 2020 - Unit 6 - "Creative Practice: Computational Environments for the Web" - Lecture 5: Bodies.
 12. Tuesday 26th May 2020 - Mock Unit 6 presentation rehearsal, mock exams for Unit 4 multiple choice and programming exam issued.
